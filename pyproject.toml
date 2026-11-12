@@ -1,7 +1,7 @@
 [project]
-name = "AWS_dbt-snowflake"
+name = "aws_dbt-snowflake"
 version = "0.1.0"
-description = "Add your description here"
+description = "AWS dbt snowflake project"
 readme = "README.md"
 requires-python = ">=3.11"
 dependencies = [
