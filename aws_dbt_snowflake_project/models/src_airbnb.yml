@@ -1,0 +1,8 @@
+version: 2
+
+sources:
+  - name: airbnb
+    database: AIRBNB
+    schema: STAGING
+    tables:
+      - name: listings
